@@ -34,10 +34,10 @@
     <div class="botones">
         <li>
             <a class="btn" href="index.php">Inicio</a>
-            <a class="btn" href="#">Calculadora</a>
-            <a class="btn" href="#">Promedio</a>
-            <a class="btn" href="#">Tablas</a>
-            <a class="btn" href="#">Evaluador</a>
+            <a class="btn" href="calculadora.php">Calculadora</a>
+            <a class="btn" href="promedio.php">Promedio</a>
+            <a class="btn" href="tabla.php">Tablas</a>
+            <a class="btn" href="evaluador.php">Evaluador</a>
         </li>
     </div>
 </body>
